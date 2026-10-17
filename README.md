@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VivekBabar/Leetcode/tree/master/0169-majority-element) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VivekBabar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VivekBabar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VivekBabar/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VivekBabar/Leetcode/tree/master/0169-majority-element) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VivekBabar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VivekBabar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VivekBabar/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VivekBabar/Leetcode/tree/master/0169-majority-element) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VivekBabar/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
 | ------- |
