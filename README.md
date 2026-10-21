@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VivekBabar/Leetcode/tree/master/0010-regular-expression-matching) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/VivekBabar/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
