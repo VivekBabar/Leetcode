@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VivekBabar/Leetcode/tree/master/0010-regular-expression-matching) |
+| [2409-count-days-spent-together](https://github.com/VivekBabar/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VivekBabar/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/VivekBabar/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VivekBabar/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/VivekBabar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
