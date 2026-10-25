@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VivekBabar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VivekBabar/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VivekBabar/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VivekBabar/Leetcode/tree/master/0283-move-zeroes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivekBabar/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VivekBabar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VivekBabar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VivekBabar/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VivekBabar/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
