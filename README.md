@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VivekBabar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VivekBabar/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VivekBabar/Leetcode/tree/master/0189-rotate-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivekBabar/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VivekBabar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VivekBabar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VivekBabar/Leetcode/tree/master/0189-rotate-array) |
 | [2409-count-days-spent-together](https://github.com/VivekBabar/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VivekBabar/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/VivekBabar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/VivekBabar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/VivekBabar/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
