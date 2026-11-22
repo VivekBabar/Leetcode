@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VivekBabar/Leetcode/tree/master/0010-regular-expression-matching) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VivekBabar/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VivekBabar/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/VivekBabar/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VivekBabar/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
