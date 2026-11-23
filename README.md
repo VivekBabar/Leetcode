@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VivekBabar/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VivekBabar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/VivekBabar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/VivekBabar/Leetcode/tree/master/0704-binary-search) |
 | [1267-count-servers-that-communicate](https://github.com/VivekBabar/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VivekBabar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivekBabar/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/VivekBabar/Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivekBabar/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
